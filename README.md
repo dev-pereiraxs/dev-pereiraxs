@@ -1,100 +1,157 @@
 <h1 align="center">
-  👋 Olá, eu sou o Felipe Pereira
+  Olá, eu sou o André Luiz 👋
 </h1>
 
 <p align="center">
-  🚀 Desenvolvedor fullStack em formação
+  💻 Estudante de Engenharia de Software | Desenvolvedor Full Stack | Técnico em Informática
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+evolução...;Focado+em+Front-End+e+Python;Construindo+projetos+reais🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Software+Engineering+Student;Full+Stack+Developer;Criando+soluções+com+Python,+Django+e+React🚀">
 </p>
 
 ---
 
-## 💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-🎓 Técnico em Informática (SENAC Tatuapé)  
-📍 São Paulo - SP  
-💡 Focado em desenvolvimento **Full Stack**  
+🎓 Estudante de **Engenharia de Software**
 
-Estou construindo projetos reais utilizando **HTML, CSS, JavaScript e Python**, sempre buscando evoluir minha lógica e criar experiências funcionais e bem estruturadas.
+🎓 Técnico em Informática (SENAC Tatuapé)
+
+📍 São Paulo - SP
+
+Sou apaixonado por tecnologia e desenvolvimento de software, buscando criar aplicações completas, desde a interface até a lógica de negócio. Tenho interesse em arquitetura de sistemas, desenvolvimento web, banco de dados e integração entre frontend e backend.
+
+Atualmente desenvolvo projetos utilizando **Python, Django, JavaScript, React, HTML, CSS e MySQL**, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 ---
 
-## 🧠 Tecnologias
+# 🚀 Tecnologias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,python,django,java,c,mysql,git,github" />
 
 </p>
 
 ---
 
-## 📚 Atualmente evoluindo
+# 📚 Atualmente estudando
 
-- JavaScript avançado  
-- Integração Front ↔ Back  
-- UI/UX  
-- Projetos completos  
-
----
-
-## 🚀 Projetos em destaque
-
-### 🔹 Sistema de Cadastro com Impressão Térmica
-- Flask + MySQL  
-- Impressão automática (ESC/POS)  
-- Sistema de sorteio integrado  
-
-### 🔹 Sistema de Agendamento
-- Interface moderna  
-- Experiência focada no usuário  
+- Engenharia de Software
+- Estruturas de Dados e Algoritmos
+- Arquitetura de Software
+- Desenvolvimento Full Stack
+- APIs REST
+- Banco de Dados
+- React
+- Django
 
 ---
 
-## 📫 Contato
+# 🚀 Projetos em destaque
+
+## 🔹 Serviço Fácil
+
+Sistema web desenvolvido para gerenciamento de serviços, utilizando tecnologias modernas para oferecer uma interface intuitiva e um backend robusto.
+
+**Tecnologias**
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+---
+
+## 🔹 Servidor para Tela Touch
+
+Backend responsável pela comunicação entre a interface touch e os serviços da aplicação, realizando processamento de dados, gerenciamento das requisições e integração entre os módulos do sistema.
+
+**Tecnologias**
+- Python
+- Django
+- JavaScript
+- HTML
+- CSS
+
+---
+
+# 🎯 Objetivos
+
+- Desenvolver sistemas escaláveis
+- Aprimorar conhecimentos em Engenharia de Software
+- Contribuir para projetos Open Source
+- Evoluir continuamente como Desenvolvedor Full Stack
+
+---
+
+# 📫 Contato
 
 <p align="center">
-  <a href="https://dev-felpzz.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/felipe-dos-santos-aguiar-pereira12/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+
+<a href="https://dev-pereiraxs.github.io/portif-lio/">
+<img src="https://img.shields.io/badge/🌐%20Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/andré-luiz-matos-pereira-633244282/">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-## 📊 Estatísticas
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dev-felpss&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-felpss&theme=radical"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dev-pereiraxs&show_icons=true&theme=radical"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-pereiraxs&theme=radical"/>
+
 </p>
 
 ---
 
-## 🐍 Contribuições
+# 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dev-pereiraxs/dev-pereiraxs/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dev-pereiraxs/dev-pereiraxs/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/dev-pereiraxs/dev-pereiraxs/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
 
-## ⚡ Um pouco mais sobre mim
+# ⚡ Além do código
 
-🎮 Gosto de jogos (Valorant, Rocket League)  
-🎧 Música faz parte do meu dia a dia  
-📈 Sempre evoluindo 1% todos os dias  
+🎮 Gosto de jogos
+
+🎧 Sou músico desde meus 8 anos
+
+📖 Aprendizado contínuo
+
+☕ Resolver problemas através da tecnologia
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif" width="400"/>
+
+> "Software is a great combination of artistry and engineering." — Bill Gates
+
 </p>
