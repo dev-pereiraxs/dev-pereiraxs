@@ -113,6 +113,8 @@ Backend responsável pela comunicação entre a interface touch e os serviços d
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-pereiraxs&theme=radical"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pereiraxs&layout=compact&langs_count=7&theme=radical" width="300px"/>
+
 </p>
 
 ---
