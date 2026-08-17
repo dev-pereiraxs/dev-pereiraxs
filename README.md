@@ -51,44 +51,6 @@ Atualmente desenvolvo projetos utilizando **Python, Django, JavaScript, React, H
 
 ---
 
-# 🚀 Projetos em destaque
-
-## 🔹 Serviço Fácil
-
-Sistema web desenvolvido para gerenciamento de serviços, utilizando tecnologias modernas para oferecer uma interface intuitiva e um backend robusto.
-
-**Tecnologias**
-- Python
-- Django
-- HTML
-- CSS
-- JavaScript
-- MySQL
-
----
-
-## 🔹 Servidor para Tela Touch
-
-Backend responsável pela comunicação entre a interface touch e os serviços da aplicação, realizando processamento de dados, gerenciamento das requisições e integração entre os módulos do sistema.
-
-**Tecnologias**
-- Python
-- Django
-- JavaScript
-- HTML
-- CSS
-
----
-
-# 🎯 Objetivos
-
-- Desenvolver sistemas escaláveis
-- Aprimorar conhecimentos em Engenharia de Software
-- Contribuir para projetos Open Source
-- Evoluir continuamente como Desenvolvedor Full Stack
-
----
-
 # 📫 Contato
 
 <p align="center">
@@ -146,14 +108,5 @@ Backend responsável pela comunicação entre a interface touch e os serviços d
 
 🎧 Sou músico desde meus 8 anos
 
-📖 Aprendizado contínuo
-
-☕ Resolver problemas através da tecnologia
-
 ---
 
-<p align="center">
-
-> "Software is a great combination of artistry and engineering." — Bill Gates
-
-</p>
