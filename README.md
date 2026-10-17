@@ -1,89 +1,220 @@
-<h1 align="center">
-  Olá, eu sou o André Luiz 👋
-</h1>
+<!--
+  André Luiz Matos Pereira | GitHub Profile
+  Estilo: Minimalista • Preto • Branco • Roxo
+-->
 
-<p align="center">
-  💻 Estudante de Engenharia de Software | Desenvolvedor Full Stack | Técnico em Informática
-</p>
+<div align="center">
 
----
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:09090B,50:211438,100:09090B&text=Andr%C3%A9%20Luiz%20Matos%20Pereira&fontSize=32&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPMENT&descSize=12&descAlignY=68&descColor=C4B5FD"
+    width="100%"
+    alt="Banner de André Luiz Matos Pereira"
+  />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Software+Engineering+Student;Full+Stack+Developer;Criando+soluções+com+Python,+Django+e+React🚀">
-</p>
+  <br/>
 
----
+  <a href="https://github.com/dev-pereiraxs">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Transformando+ideias+em+projetos;Desenvolvimento+%7C+Tecnologia+%7C+Criatividade"
+      alt="Animação de texto"
+    />
+  </a>
 
-# 👨‍💻 Sobre mim
+  <br/>
 
-🎓 Estudante de **Engenharia de Software**
+  <img
+    src="https://img.shields.io/badge/FOCO-TECNOLOGIA-8B5CF6?style=flat-square"
+    alt="Foco em tecnologia"
+  />
+  <img
+    src="https://img.shields.io/badge/ESTILO-MINIMALISTA-18181B?style=flat-square&labelColor=18181B"
+    alt="Estilo minimalista"
+  />
 
-🎓 Técnico em Informática (SENAC Tatuapé)
+  <br/><br/>
 
-📍 São Paulo - SP
+  <a href="https://github.com/dev-pereiraxs">
+    <img src="https://img.shields.io/badge/GitHub-dev--pereiraxs-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-matos-pereira-633244282/">
+    <img src="https://img.shields.io/badge/LinkedIn-conectar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-Sou apaixonado por tecnologia e desenvolvimento de software, buscando criar aplicações completas, desde a interface até a lógica de negócio. Tenho interesse em arquitetura de sistemas, desenvolvimento web, banco de dados e integração entre frontend e backend.
-
-Atualmente desenvolvo projetos utilizando **Python, Django, JavaScript, React, HTML, CSS e MySQL**, sempre buscando escrever código limpo, escalável e de fácil manutenção.
-
----
-
-# 🚀 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,python,django,java,c,mysql,git,github" />
-
-</p>
-
----
-
-# 📚 Atualmente estudando
-
-- Engenharia de Software
-- Estruturas de Dados e Algoritmos
-- Arquitetura de Software
-- Desenvolvimento Full Stack
-- APIs REST
-- Banco de Dados
-- React
-- Django
+</div>
 
 ---
 
-# 📫 Contato
+## `01` — Sobre mim
 
-<p align="center">
+Olá! Sou **André Luiz Matos Pereira**, da área de Engenharia de Software.
 
-<a href="https://dev-pereiraxs.github.io/portif-lio/">
-<img src="https://img.shields.io/badge/🌐%20Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
+Tenho interesse em desenvolvimento de software e em tecnologias que permitem transformar ideias em soluções digitais. Meu perfil reúne tecnologias de desenvolvimento web, programação e bancos de dados.
 
-<a href="https://www.linkedin.com/in/andré-luiz-matos-pereira-633244282/">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+Este espaço é onde reúno projetos, experimentos e aplicações que fazem parte da minha trajetória na tecnologia.
 
-</p>
+> Código, criatividade e evolução constante.
 
 ---
 
-# 📊 GitHub Stats
+## `02` — Stack tecnológica
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dev-pereiraxs&show_icons=true&theme=radical"/>
+  <p><strong>FRONT-END</strong></p>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-pereiraxs&theme=radical"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React e Tailwind CSS"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pereiraxs&layout=compact&langs_count=7&theme=radical" width="300px"/>
+  <br/><br/>
 
-</p>
+  <p><strong>BACK-END & BANCO DE DADOS</strong></p>
+
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,python,java&theme=dark" alt="Node.js, MySQL, Python e Java"/>
+
+  <br/><br/>
+
+  <p><strong>FERRAMENTAS & OUTRAS LINGUAGENS</strong></p>
+
+  <img src="https://skillicons.dev/icons?i=git,github,cpp&theme=dark" alt="Git, GitHub e C++"/>
+
+</div>
+
+<details>
+  <summary><strong>Ver tecnologias em texto</strong></summary>
+
+  - **Web:** HTML, CSS, JavaScript, TypeScript
+  - **Interfaces:** React, Tailwind CSS
+  - **Servidor:** Node.js
+  - **Banco de dados:** MySQL
+  - **Programação:** Python, Java e C++
+  - **Versionamento:** Git e GitHub
+
+</details>
 
 ---
 
-# 🐍 Contribuições
+## `03` — Projetos em destaque
 
-<p align="center">
+Projetos que desenvolvi e que você pode acessar diretamente.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+      <h3 align="center">Serviço Fácil</h3>
+
+      <p align="center">
+        <a href="https://projeto-integrador-4aw2.onrender.com/">
+          <img
+            src="https://img.shields.io/badge/ACESSAR_PROJETO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
+            alt="Acessar Serviço Fácil"
+          />
+        </a>
+      </p>
+
+      <p align="center">
+        Projeto integrador disponível online.
+      </p>
+
+      <p align="center">
+        <a href="https://projeto-integrador-4aw2.onrender.com/">
+          Visualizar aplicação ↗
+        </a>
+      </p>
+
+    </td>
+    <td width="50%" valign="top">
+
+      <h3 align="center">Doceria Vasconcelos</h3>
+
+      <p align="center">
+        <a href="https://dev-pereiraxs.github.io/doceria_vasconcelos/">
+          <img
+            src="https://img.shields.io/badge/ACESSAR_PROJETO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
+            alt="Acessar Doceria Vasconcelos"
+          />
+        </a>
+      </p>
+
+      <p align="center">
+        Projeto web de uma doceria, publicado no GitHub Pages.
+      </p>
+
+      <p align="center">
+        <a href="https://dev-pereiraxs.github.io/doceria_vasconcelos/">
+          Visualizar aplicação ↗
+        </a>
+      </p>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=dev-pereiraxs&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&ring_color=8B5CF6&include_all_commits=true"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pereiraxs&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7&langs_count=8"
+    alt="Linguagens mais utilizadas"
+  />
+
+</div>
+
+<div align="center">
+
+  <br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=dev-pereiraxs&theme=transparent&hide_border=true&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA"
+    alt="GitHub contribution streak"
+    width="100%"
+  />
+
+</div>
+
+---
+
+## `05` — Atividade no GitHub
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dev-pereiraxs&bg_color=09090B&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=211438&hide_border=true"
+    alt="Gráfico de atividade no GitHub"
+    width="100%"
+  />
+
+</div>
+
+---
+
+## `06` — GitHub Trophies
+
+<div align="center">
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=dev-pereiraxs&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
+    alt="Troféus do GitHub"
+    width="100%"
+  />
+
+</div>
+
+---
+
+## `07` — Contribution Snake
+
+<div align="center">
+
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -94,19 +225,48 @@ Atualmente desenvolvo projetos utilizando **Python, Django, JavaScript, React, H
       srcset="https://raw.githubusercontent.com/dev-pereiraxs/dev-pereiraxs/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
+      alt="Animação Snake do gráfico de contribuições"
       src="https://raw.githubusercontent.com/dev-pereiraxs/dev-pereiraxs/output/github-contribution-grid-snake.svg"
+      width="100%"
     />
   </picture>
-</p>
 
----
+</div>
 
-# ⚡ Além do código
+> **Configuração necessária:** a Snake precisa de um GitHub Actions para gerar os arquivos SVG. Crie o arquivo `.github/workflows/snake.yml` no repositório do perfil e adicione:
 
-🎮 Gosto de jogos
+```yaml
+name: Generate contribution snake
 
-🎧 Sou músico desde meus 8 anos
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
----
+permissions:
+  contents: write
 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: dev-pereiraxs
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish SVG files
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
