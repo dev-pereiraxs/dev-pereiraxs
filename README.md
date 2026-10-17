@@ -96,58 +96,28 @@ Este espaço é onde reúno projetos, experimentos e aplicações que fazem part
 
 Projetos que desenvolvi e que você pode acessar diretamente.
 
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-      <h3 align="center">Serviço Fácil</h3>
-
-      <p align="center">
-        <a href="https://projeto-integrador-4aw2.onrender.com/">
-          <img
-            src="https://img.shields.io/badge/ACESSAR_PROJETO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
-            alt="Acessar Serviço Fácil"
-          />
-        </a>
-      </p>
-
-      <p align="center">
-        Projeto integrador disponível online.
-      </p>
-
-      <p align="center">
-        <a href="https://projeto-integrador-4aw2.onrender.com/">
-          Visualizar aplicação ↗
-        </a>
-      </p>
-
+    <td width="50%" align="center" valign="top">
+      <h3>Serviço Fácil</h3>
+      <p>Projeto integrador desenvolvido no Senac.</p>
+      <a href="https://projeto-integrador-4aw2.onrender.com/">
+        <img src="https://img.shields.io/badge/Ver_projeto-8B5CF6?style=for-the-badge" alt="Ver Serviço Fácil">
+      </a>
     </td>
-    <td width="50%" valign="top">
-
-      <h3 align="center">Doceria Vasconcelos</h3>
-
-      <p align="center">
-        <a href="https://dev-pereiraxs.github.io/doceria_vasconcelos/">
-          <img
-            src="https://img.shields.io/badge/ACESSAR_PROJETO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
-            alt="Acessar Doceria Vasconcelos"
-          />
-        </a>
-      </p>
-
-      <p align="center">
-        Projeto web de uma doceria, publicado no GitHub Pages.
-      </p>
-
-      <p align="center">
-        <a href="https://dev-pereiraxs.github.io/doceria_vasconcelos/">
-          Visualizar aplicação ↗
-        </a>
-      </p>
-
+    <td width="50%" align="center" valign="top">
+      <h3>Doceria Vasconcelos</h3>
+      <p>pagina web de uma doceria.</p>
+      <a href="https://dev-pereiraxs.github.io/doceria_vasconcelos/">
+        <img src="https://img.shields.io/badge/Ver_projeto-8B5CF6?style=for-the-badge" alt="Ver Doceria Vasconcelos">
+      </a>
     </td>
   </tr>
 </table>
+
+---
+
 
 ---
 
@@ -181,37 +151,10 @@ Projetos que desenvolvi e que você pode acessar diretamente.
 
 </div>
 
----
-
-## `05` — Atividade no GitHub
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dev-pereiraxs&bg_color=09090B&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=211438&hide_border=true"
-    alt="Gráfico de atividade no GitHub"
-    width="100%"
-  />
-
-</div>
 
 ---
 
-## `06` — GitHub Trophies
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dev-pereiraxs&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
-    alt="Troféus do GitHub"
-    width="100%"
-  />
-
-</div>
-
----
-
-## `07` — Contribution Snake
+## `05` — Contribution Snake
 
 <div align="center">
 
@@ -233,40 +176,3 @@ Projetos que desenvolvi e que você pode acessar diretamente.
 
 </div>
 
-> **Configuração necessária:** a Snake precisa de um GitHub Actions para gerar os arquivos SVG. Crie o arquivo `.github/workflows/snake.yml` no repositório do perfil e adicione:
-
-```yaml
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate contribution graph
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: dev-pereiraxs
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish SVG files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
