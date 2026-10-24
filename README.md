@@ -99,14 +99,14 @@ Projetos que desenvolvi e que você pode acessar diretamente.
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="30%" align="center" valign="top">
       <h3>Serviço Fácil</h3>
       <p>Projeto integrador desenvolvido no Senac.</p>
       <a href="https://projeto-integrador-4aw2.onrender.com/">
         <img src="https://img.shields.io/badge/Ver_projeto-8B5CF6?style=for-the-badge" alt="Ver Serviço Fácil">
       </a>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="30%" align="center" valign="top">
       <h3>Doceria Vasconcelos</h3>
       <p>pagina web de uma doceria.</p>
       <a href="https://dev-pereiraxs.github.io/doceria_vasconcelos/">
@@ -114,6 +114,14 @@ Projetos que desenvolvi e que você pode acessar diretamente.
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <h3>Radical Music</h3>
+      <p>aplicação de conhecimentos em python e flask.</p>
+      <a href="https://radical-music.onrender.com/">
+        <img src="https://img.shields.io/badge/Ver_projeto-8B5CF6?style=for-the-badge" alt="Ver Radical Music">
+      </a>
+    </td>
 </table>
 
 ---
