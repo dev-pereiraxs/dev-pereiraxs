@@ -102,7 +102,7 @@ Projetos que desenvolvi e que você pode acessar diretamente.
     <td width="30%" align="center" valign="top">
       <h3>Serviço Fácil</h3>
       <p>Projeto integrador desenvolvido no Senac.</p>
-      <a href="https://projeto-integrador-4aw2.onrender.com/">
+      <a href="[https://projeto-integrador-4aw2.onrender.com/](https://projeto-integrador-h7m7.onrender.com/)">
         <img src="https://img.shields.io/badge/Ver_projeto-8B5CF6?style=for-the-badge" alt="Ver Serviço Fácil">
       </a>
     </td>
